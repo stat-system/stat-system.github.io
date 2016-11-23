@@ -1,0 +1,29 @@
+<header class="site-header">
+
+  <!--<div style="background: url('http://ffpak.org/wp-content/uploads/2015/05/header-background.png'); width: 100%; height:522px;">-->
+  <div style="background: #a7c9c6;">
+  <div class="wrapper" style="background:url('/assets/statboard.png') no-repeat center;background-size:contain;">
+    <div class="title-head">
+        <div class="sep"></div>
+        <div class="title">{{ site.title }}</div>
+        <div class="subtitle">{{ site.description }}</div>
+    </div>
+    <div class="sep"></div>
+    <div>
+    </div>
+  </div>
+  </div>
+  <div class="nav-row">
+    <nav>
+      <div class="trigger" style="text-align: center;">
+        {% for my_page in site.posts %}
+          {% if my_page.title %}
+          <a class='button' href="#{{ my_page.url | remove: '/' }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+ </div>
+
+
+</header>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "ABOUT"
+date: 2016-11-22 18:40:49 -0500
+permalink: /about/
+---
+
+S.T.A.T. is a system developed by a tutor for tutors. The product originated as an idea of a Computer Science tutor and a Senior System Administrator of a Tutoring Center as a replacement for other products in the market.
+
+
+S.T.A.T. is user friendly, simple to use, and follows the [K.I.S.S.](https://en.wikipedia.org/wiki/KISS_principle) design principle in order to better serve both students and tutors.
+
+S.T.A.T. also makes it much more simpler to administer with a single CMS based system to keep everything simple and organized. It also let's you run reports and notifications with a single click.
+

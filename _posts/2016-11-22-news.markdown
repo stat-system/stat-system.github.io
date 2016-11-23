@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "NEWS"
+date:   2016-11-22 18:40:48 -0500
+permalink: /news/
+---
+*2016-11-22* --- S.T.A.T. website is launched
+
+*2016-11-21* --- CAS implementation
+
+*2016-10-01* --- LDAP implementation
+
+*2016-08-21* --- S.T.A.T. started it's BETA test stage
+
+*2016-06-15* --- Successfully passed the ALPHA test stage

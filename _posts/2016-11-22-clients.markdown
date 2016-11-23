@@ -1,0 +1,8 @@
+---
+layout: post
+title: "CLIENTS"
+permalink: /clients/
+---
+<center>
+<img src="http://www.newhaven.edu/academics/CLR/about/718133.jpg" width="200px" alt="Center for Learning Resources" />
+</center>
